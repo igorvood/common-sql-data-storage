@@ -9,14 +9,14 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>ru.vood</groupId>
-    <artifactId>commo-sql-data-storage</artifactId>
+    <artifactId>common-sql-data-storage</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>commo-sql-data-storage</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
         <java.version>11</java.version>
-        <kotlin.version>1.3.72</kotlin.version>
+        <kotlin.version>1.4.10</kotlin.version>
     </properties>
 
     <dependencies>
