@@ -4,8 +4,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class CommoSqlDataStorageApplication
+class CommonSqlDataStorageApplication
 
 fun main(args: Array<String>) {
-    runApplication<CommoSqlDataStorageApplication>(*args)
+    runApplication<CommonSqlDataStorageApplication>(*args)
 }
