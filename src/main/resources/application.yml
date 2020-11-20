@@ -7,5 +7,5 @@ spring:
   liquibase:
     enabled: false
     change-log: liquibase/liquibase-outputChangeLog.xml
-logging:
-  level: debug
+#logging:
+#  level: debug

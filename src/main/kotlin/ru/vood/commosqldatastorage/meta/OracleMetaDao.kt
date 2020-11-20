@@ -1,7 +1,9 @@
 package ru.vood.commosqldatastorage.meta
 
+import java.util.*
+
 interface OracleMetaDao {
 
-    fun getAllMeta(): Map<String, TableMeta>
+    fun getAllMeta(): TreeMap<String, TableMeta>
 
 }
